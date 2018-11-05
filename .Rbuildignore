@@ -1,6 +1,2 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
-^data-raw$
-^\.Renviron$
-^README\.Rmd$
-^\.travis\.yml

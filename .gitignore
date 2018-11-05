@@ -2,9 +2,4 @@
 .Rhistory
 .RData
 .Ruserdata
-.Renviron
-.DS_Store
-sites.csv
-sites.txt
-vignettes/.build.timestamp
-vignettes/sebms-intro.R
+playground/
